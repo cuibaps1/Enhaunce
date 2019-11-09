@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "82733391280",
+    "firebase_url": "https://enhaunce-1e838.firebaseio.com",
+    "project_id": "enhaunce-1e838",
+    "storage_bucket": "enhaunce-1e838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82733391280:android:7b2d0cac7cc7c928f40a75",
+        "android_client_info": {
+          "package_name": "com.company.enhaunce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82733391280-q7dei26ha1mucmsgduf2scrlso2gdhta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvKrTIpv_TDCGHjUAFtVQ7w7qTXcNba8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82733391280-q7dei26ha1mucmsgduf2scrlso2gdhta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
